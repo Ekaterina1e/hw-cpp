@@ -1,1 +1,1 @@
-# hw-cpp
+Variant #2
