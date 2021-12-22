@@ -7,7 +7,7 @@ using namespace std;
 
 
 int main() {
-    //ifstream file("C:\\Users\\acer\\CLionProjects\\hw\\in.txt");
+    
     ifstream file("in.txt");
 
     float xn;
