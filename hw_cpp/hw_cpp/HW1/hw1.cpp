@@ -15,7 +15,7 @@ int main()
 	ifstream in("in.txt");
 	int lx, ly, l, r, x, y;
 	in >> lx >> ly;
-	point rmax{ 0,0 };
+	point rmax{ 0, 0 };
 	point lmax{ 0, 0 };
 	r = 0;
 	l = -1;
